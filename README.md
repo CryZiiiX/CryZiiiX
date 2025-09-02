@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏗️ I’m currently working on academic projects in **Data Mining**, **NLP**, and **Cybersecurity**, including a CV Classifier using NER and ML models.  <br><br>🤝 I’m looking to collaborate on **open-source projects** related to AI, data processing, and security tools.  <br><br>🙌 I’m looking for help with improving **ML model deployment** and **Debian packaging**.  <br><br>🌱 I’m currently learning **advanced NLP (Flair, BERT, Transformers)**, **data pipelines**, and **secure software development**.  <br><br>💬 Ask me about **Python, Machine Learning, Linux systems**, and **GitHub project management**.  
+I’m currently working on academic projects in **Data Mining**, **NLP**, and **Cybersecurity**, including a CV Classifier using NER and ML models.  <br><br>I’m looking to collaborate on **open-source projects** related to AI, data processing, and security tools.  <br><br>I’m looking for help with improving **ML model deployment** and **Debian packaging**.  <br><br>I’m currently learning **advanced NLP (Flair, BERT, Transformers)**, **data pipelines**, and **secure software development**.  <br><br>Ask me about **Python, Machine Learning, Linux systems**, and **GitHub project management**.  
 
 
 ## 🌐 Socials:
