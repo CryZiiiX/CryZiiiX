@@ -10,9 +10,8 @@ I’m currently working on academic projects in **Data Mining**, **NLP**, and **
 
 
 # 📊 GitHub Stats:
-<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=MaxBro&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MaxBro&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxBro&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</p>
+
 
