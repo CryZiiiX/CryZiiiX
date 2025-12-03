@@ -1,5 +1,5 @@
 # About Me
-• I am a Computer Science student (L3, Université Paris 8 – IED) with strong interests in **Data Mining**, **Natural Language Processing (NLP)**, and **Cybersecurity**.  
+• I am a Computer Science student (M1 - informatique BIG-DATA, Université Paris 8 – IED) with strong interests in **Data Mining**, **Natural Language Processing (NLP)**, and **Cybersecurity**.  
 • I develop academic and open-source projects such as a **CV Classifier** (NER + Machine Learning) and a **Botnet Simulation** (educational & ethical context).  
 • My goals are to deepen my expertise in **AI, Big Data, and Secure Software Development**, and to pursue a Master's in these fields.  
 • Open to collaboration on **open-source projects** related to AI, data processing, or security tools.  
